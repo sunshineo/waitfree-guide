@@ -19,7 +19,7 @@
 ![1](/kiosk-setup/17.jpg)
 ![1](/kiosk-setup/18.jpg)
 ![1](/kiosk-setup/19.jpg)
-![1](/kiosk-setup/10.jpg)
+![1](/kiosk-setup/20.jpg)
 ![1](/kiosk-setup/21.jpg)
 ![1](/kiosk-setup/22.jpg)
 ![1](/kiosk-setup/23.jpg)
